@@ -1,0 +1,4 @@
+[
+  { "id": 1, "phone": "8801", "password": "password1" },
+  { "id": 2, "phone": "8802", "password": "password2" }
+]
